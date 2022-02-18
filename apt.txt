@@ -1,1 +1,2 @@
 vim
+libgsl0-dev
